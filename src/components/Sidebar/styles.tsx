@@ -4,6 +4,7 @@ import { transparentize } from "polished"
 import { fontFamily } from "../../design/typography"
 import JJHLogo from "../../images/JJH-logo"
 
+
 export const SidebarWrapper = styled.div`
   box-sizing: border-box;
   flex: 0 0 320px;

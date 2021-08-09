@@ -11,7 +11,7 @@ The official website for my hangout. You can join my Discord ([here](https://dis
 - Gatsby Plugins
 - Styled Components
 
-### Develop Locally
+## Develop Locally
 
 1. `git clone git@github.com:jackjona123/hangout.git`
 2. `npm install`
