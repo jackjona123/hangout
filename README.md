@@ -36,10 +36,10 @@ An example frontmatter might look like this
 ```md
 ---
 authors:
-  - "Xetera#0001"
-title: "Working with Lists in Elixir"
+  - "jackjona#0001"
+title: "Working with Lists in Markdown"
 created_at: 2020/01/30
 external_resources:
-  - text: Elixir docs: List
-    href: "https://hexdocs.pm/elixir/List.html"
+  - text: Markdown docs: List
+    href: "https://hexdocs.pm/Markdown/List.html"
 ---
