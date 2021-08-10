@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import styled, { css } from "styled-components"
 import { transparentize } from "polished"
 import { fontFamily } from "../../design/typography"
-import JJHLogo from "../../images/JJH-logo"
+import JJHLogo from "../../images/jjh-logo"
 
 
 export const SidebarWrapper = styled.div`

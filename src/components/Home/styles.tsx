@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import Particles from "react-particles-js"
 import styled, { css } from "styled-components"
 import { fontFamily } from "../../design/typography"
-import JJHLogo from "../../images/JJH-logo"
+import JJHLogo from "../../images/jjh-logo"
 
 export const HomeWrapper = styled.header`
   display: flex;
